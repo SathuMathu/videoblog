@@ -1,0 +1,6 @@
+<div>
+    <video class="align-middle" width="100%" height="400" controls autoplay>
+        <source src="vid/Vanguard.mp4" type="video/mp4">
+        Sorry, your browser doesn't support the video element.
+    </video>
+</div>
