@@ -13,7 +13,7 @@
           <a class="nav-link" href="trailer.php">Trailers</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://getbootstrap.com/docs/5.1/components/navbar/">Link</a>
+          <a class="nav-link" href="https://getbootstrap.com/docs/5.1/components/navbar/">Links</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
